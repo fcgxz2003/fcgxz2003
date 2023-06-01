@@ -1,5 +1,5 @@
 <p align="center"><b>Hi there 👋</b></p>
-<p align="center"><b>We become what we behold</b></p>
+<p align="center">We become what we behold</p>
 
 <!--
 **fcgxz2003/fcgxz2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
