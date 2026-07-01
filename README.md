@@ -24,3 +24,9 @@ Here are some ideas to get you started:
     <img height="200" src="https://github-readme-stats-chi-eight-51.vercel.app/api/top-langs/?username=fcgxz2003&layout=compact&theme=default&langs_count=8&border_color=8957e5&border_radius=12" alt="Top Langs" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fcgxz2003&theme=flat&no-frame=true&margin-w=8&margin-h=8" alt="trophy" />
+  </a>
+</p>
