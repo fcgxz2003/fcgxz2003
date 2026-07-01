@@ -24,3 +24,7 @@ Here are some ideas to get you started:
     <img height="200" src="https://github-readme-stats-chi-eight-51.vercel.app/api/top-langs/?username=fcgxz2003&layout=compact&theme=default&langs_count=8&border_color=8957e5&border_radius=12" alt="Top Langs" />
   </a>
 </p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution calendar" />
+</p>
