@@ -18,17 +18,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/fcgxz2003/fcgxz2003">
-    <img height="165" src="https://github-readme-stats-chi-eight-51.vercel.app/api?username=fcgxz2003&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="dlut_xz's GitHub stats" />
+    <img height="200" src="https://github-readme-stats-chi-eight-51.vercel.app/api?username=fcgxz2003&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" alt="dlut_xz's GitHub stats" />
   </a>
   <a href="https://github.com/fcgxz2003/fcgxz2003">
-    <img height="165" src="https://github-readme-stats-chi-eight-51.vercel.app/api/top-langs/?username=fcgxz2003&layout=compact&hide_border=true&theme=tokyonight" alt="Top Langs" />
+    <img height="200" src="https://github-readme-stats-chi-eight-51.vercel.app/api/top-langs/?username=fcgxz2003&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top Langs" />
   </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fcgxz2003/fcgxz2003/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fcgxz2003/fcgxz2003/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fcgxz2003/fcgxz2003/output/github-snake.svg" />
-  </picture>
 </p>
