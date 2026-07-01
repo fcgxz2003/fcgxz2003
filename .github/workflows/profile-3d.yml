@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Generate 3D contribution calendar
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
