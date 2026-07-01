@@ -17,14 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/fcgxz2003/fcgxz2003">
-    <img height="200" src="https://github-readme-stats-chi-eight-51.vercel.app/api?username=fcgxz2003&show_icons=true&count_private=true&include_all_commits=true&theme=default&border_color=8957e5&border_radius=12" alt="dlut_xz's GitHub stats" />
-  </a>
-  <a href="https://github.com/fcgxz2003/fcgxz2003">
-    <img height="200" src="https://github-readme-stats-chi-eight-51.vercel.app/api/top-langs/?username=fcgxz2003&layout=compact&theme=default&langs_count=8&border_color=8957e5&border_radius=12" alt="Top Langs" />
-  </a>
-</p>
-
-<p align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution calendar" />
 </p>
